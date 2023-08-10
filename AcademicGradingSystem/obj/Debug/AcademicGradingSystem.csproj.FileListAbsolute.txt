@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\bin\Debug\AcademicGradingSystem.exe.config
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\bin\Debug\AcademicGradingSystem.exe
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\bin\Debug\AcademicGradingSystem.pdb
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\obj\Debug\AcademicGradingSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\obj\Debug\AcademicGradingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\obj\Debug\AcademicGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\obj\Debug\AcademicGradingSystem.exe
+C:\Users\user\source\repos\AcademicGradingSystem\AcademicGradingSystem\obj\Debug\AcademicGradingSystem.pdb
